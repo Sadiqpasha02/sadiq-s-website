@@ -30,6 +30,7 @@ header {
   border-bottom: 2px solid var(--border);
   position:fixed;
   top:0;
+  width:100%;
   
 }
 
@@ -369,4 +370,5 @@ button:hover {
   margin: 15px auto;
   max-width: 700px;
   text-align: left;
+
 }
