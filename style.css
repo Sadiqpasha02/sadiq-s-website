@@ -28,6 +28,9 @@ header {
   list-style: none;
   height: 60px;
   border-bottom: 2px solid var(--border);
+  position:fixed;
+  top:0;
+  
 }
 
 .tabs li {
